@@ -1,6 +1,5 @@
 h1 {
   font-size: 100px;
-  font-family: helvetica;
   font-weight: bold;
   color: khaki;
   text-align: center;
@@ -9,13 +8,8 @@ h1 {
 
 h2 {
   font-size: 32px;
-  font-family: helvetica;
   font-weight: bold;
   color: white;
-}
-
-h3 {
-  font-family: helvetica;
 }
 
 .brushes {
@@ -30,10 +24,10 @@ h3 {
   background-color: skyblue;
 }
 
-p {
-  font-family: helvetica
-}
-
 .thosedarnprices {
   color: blue;
+}
+
+* {
+  font-family: helvetica;
 }
